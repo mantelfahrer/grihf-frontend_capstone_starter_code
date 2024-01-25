@@ -36,6 +36,7 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  position: fixed;
 }
 
 .navbar-menu {
